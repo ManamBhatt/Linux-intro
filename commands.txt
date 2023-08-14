@@ -1,1 +1,4 @@
 This is introductio for linux commands.
+ls
+mkdir
+rm -r -f <directory_name>
