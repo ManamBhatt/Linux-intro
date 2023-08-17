@@ -1,0 +1,18 @@
+After setting up your Ubuntu OS.
+
+goto terminal(ctl+alt+T)
+
+
+> sudo apt-get update
+update all packages
+
+> sudo apt-get install -y apt-transport-https
+
+> sudo apt install docker.io 
+(to install)
+> sudo systemctl start docker
+(to start)
+> sudo systemctl enable docker
+(to enable)
+> sudo systemctl is-active docker
+(to check the status)
